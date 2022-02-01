@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Amos312
 - 👀 I’m interested in coding development and cyber security.
-- 🌱 I’m currently learning C language
+- 🌱 I’m currently learning languages etc.
 - 💞️ 
 - 📫 You can reach me by my email amostmg421@gmail.com 
 
